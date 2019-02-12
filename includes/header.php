@@ -5,11 +5,7 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<!--
-   Author Name: Bruce Elgort
-   Assignment : Welcome Page
-   Due Date   : 02/15/2013
--->
+
 
 <head>
     <meta charset="utf-8">

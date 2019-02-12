@@ -1,0 +1,123 @@
+/* CSS for template.html */
+body {
+	font-family: Geneva, Verdana, sans-serif;
+	font-size:1em;
+	background-color:#fff;
+	color:rgb(26, 81, 144);
+	margin:0 auto;
+	padding:0;
+	width:900px;
+	background-color:#ccf5ff;
+}
+
+
+
+#pagewrapper {
+	margin-top:20px;
+	padding:0;
+}
+
+#header {
+	background-image:url(img/DesignHeader.png);
+	background-color:white;
+	background-repeat:no-repeat;
+	background-size: contain;
+	height:125px;
+	padding:0px;
+	margin:0;
+	
+}
+
+
+#content {
+	float:left;
+	width:400px;
+	padding:10px;
+}
+
+.pink {
+	color:rgb(228,74,228);
+	border:5px solid rgb(228,74,228);
+}
+
+.blue {
+	color:rgb(10, 71, 240);
+	border:5px solid rgb(10, 71, 240);
+}
+
+.music {
+	color:black;
+	border-style: double;
+	border-width:5px;
+	border-color:black; 
+}
+
+.animal {
+	color:#0d8a8f;
+	border-style:double;
+	border-width:5px;
+}
+
+.entree {
+	color:rgb(209, 38, 15);
+	border:5px solid rgb(209,38,15);
+}
+
+.pict{
+	color:gray;
+	border-style:double;
+	border-width:5px;
+}
+.season{
+	color:rgb(52, 189, 235);
+	border-style:double;
+	border-width:5px;
+}
+
+.drink{
+	color:green;
+	border-style:dotted;
+	border-width:5px;
+	border-color:green;
+}
+
+
+
+#contentbox {
+	float:left;
+	width:400px;
+	margin:10px 10px 15px 10px;
+	background-color:#fff;
+	padding:10px;
+	box-shadow:5px 5px 5px rgb(142, 180, 199);
+}
+#errorbox {
+	float:left;
+	width:800px;
+	margin:10px 10px 15px 10px;
+	background-color:#fff;
+	padding:10px;
+	box-shadow:5px 5px 5px rgb(142, 180, 199);
+
+}
+
+
+footer,#footer {
+	background-color:white;
+	clear:both;
+	height:35px;
+	font-size:12px;
+	text-align:center;
+	padding-top:1px;
+	color:#0099cc;
+	
+}
+
+#innerfooter {
+	padding-top:5px;
+}
+
+
+
+
+
